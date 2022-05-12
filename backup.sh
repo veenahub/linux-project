@@ -1,0 +1,2 @@
+tar -czf /home/ubuntu/backups/uploads$(date "+%Y-%m-%d%H-%M-%S").tgz /home/ubuntu/kittengram-master/www/uploads
+tar -czf /home/ubuntu/backups/sqldata$(date "+%Y-%m-%d%H-%M-%S").tgz /home/ubuntu/kittengram-master/data.db
